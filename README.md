@@ -1,2 +1,2 @@
 # condenv
-Anaconda package and dependency manager for anaconda.
+Package and dependency manager for anaconda (in the style of pipenv or poetry).
